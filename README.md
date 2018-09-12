@@ -1,12 +1,16 @@
 # Battle-llama2
-## Story
-
 
 ## Background
 Since I learned how to write a game program using C language with allegro, I have written a lot of games such as Battle-llama-1, Early-Spring and Aceoawhole. 
 I found that "complicated" doesn't correspond to "exquisite". Instead, simple and intuitive games are more acceptable to players. 
 As a result, I chose Battle-llama, which is not only my first C language game project but also a simple easy game, to revise and build this new version. 
 I used a game window and five pages as the trunk, one useful type and four objects as twigs to build this project, and you can see more detail in the file I uploaded in the front page.
+
+## Story
+This is a story about two llamas. 
+In the first version, they both want to be the PQ(party queen), so they have no choice to have a fierce fight. 
+But in this version, something different. There are three different powers hidden in the llamas' body. 
+The players' goal is to activate this power and defeat your enemy.
 
 ## Perform
 

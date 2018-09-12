@@ -14,10 +14,11 @@ The players' goal is to activate this power and defeat your enemy.
 
 ## Perform
 
-![menu2](https://user-images.githubusercontent.com/41135423/45413117-fa9ba500-b6aa-11e8-9b3c-f88a3b4bf59d.gif)
+*CHOOSE PAGE*
+![12](https://user-images.githubusercontent.com/41135423/45423251-583ceb00-b6c5-11e8-9e55-0d9465a84f45.gif)
 
-![menu3](https://user-images.githubusercontent.com/41135423/45413118-fa9ba500-b6aa-11e8-9044-5523f3d9fdfb.gif)
+*PLAY PAGE*
+![13](https://user-images.githubusercontent.com/41135423/45423252-583ceb00-b6c5-11e8-9652-c60751959188.gif)
 
-![menu4](https://user-images.githubusercontent.com/41135423/45413119-fb343b80-b6aa-11e8-85e5-48d59f3d1c1e.gif)
-
-![menu5](https://user-images.githubusercontent.com/41135423/45413120-fb343b80-b6aa-11e8-85df-eff93ca61a41.gif)
+*WIN PAGE*
+![14](https://user-images.githubusercontent.com/41135423/45423253-58d58180-b6c5-11e8-9b04-10fb96234aea.gif)
